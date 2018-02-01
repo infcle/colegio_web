@@ -1,0 +1,16 @@
+.texto_sergui 
+{
+    font-size: 21px;
+    color: #fff !important;
+    background: #666666;
+    line-height: 60px;
+    display: table;
+    margin: 0px auto -30px;
+    padding: 0px 20px;
+}
+.mihr{
+	border-top: 4px double; 
+	border-bottom: 1px solid #4bceb4; 
+	border-left:none; 
+	border-right:none; 
+}
